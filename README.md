@@ -48,6 +48,9 @@ Do you like dogs? do you like Shiba Inu? That is even better!
 
 * **Jun Lee** - *Initial work* - [Jun Lee](https://github.com/juntomlee)
 
+## Image Designers
+* App Logo: MK
+* Start/Finish/Undo icons: designed by Freepik from Flaticon
 
 ## Contact
 juntomlee [at] gmail.com
