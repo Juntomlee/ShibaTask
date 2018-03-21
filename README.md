@@ -2,7 +2,7 @@
 
 
 ## App Store Link
-- 
+- https://itunes.apple.com/us/app/shibatask/id1356225268?mt=8
 
 
 ## About
